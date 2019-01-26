@@ -1,3 +1,2 @@
-# password-generator
+#Password-generator
 Password generator for any service?
-Only works in Canopy
